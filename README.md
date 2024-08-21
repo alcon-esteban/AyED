@@ -1,2 +1,2 @@
 # AyED
-Esteban David Alcon Pairumani K1102
+Esteban Alcon K1102
